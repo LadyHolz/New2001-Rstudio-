@@ -1,0 +1,6 @@
+name <- readline("Enter your name please:")
+Hello <- paste("Hi", name, "!")
+print(Hello)
+age <- readline("Enter you age:")
+entry <- paste("You are", age, "years young!")
+print(entry)
